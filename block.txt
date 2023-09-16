@@ -5,6 +5,7 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||filehippo.com^
 ||google.com^
 ||crash.163.com^
 ||crashlytics.163.com^
