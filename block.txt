@@ -5,6 +5,10 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||quora.com^
+||medium.com^
+||filehippo.com^
+||google.com^
 ||crash.163.com^
 ||crashlytics.163.com^
 ||iad.g.163.com^
