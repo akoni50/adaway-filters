@@ -5,7 +5,7 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
-||analytics.163.com^
+||google.com^
 ||crash.163.com^
 ||crashlytics.163.com^
 ||iad.g.163.com^
