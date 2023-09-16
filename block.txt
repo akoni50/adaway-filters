@@ -6,7 +6,6 @@
 !
 
 ||quora.com^
-||medium.com^
 ||filehippo.com^
 ||google.com^
 ||crash.163.com^
